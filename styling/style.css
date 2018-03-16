@@ -1,0 +1,25 @@
+body {
+  margin: 0 auto;
+}
+
+h1 {
+  font-style: gugi;
+}
+
+.clock-div {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.clock {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+p {
+  display: flex;
+  font-weight: bold;
+  font-size: 300%;
+}
